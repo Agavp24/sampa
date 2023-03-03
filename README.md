@@ -1,0 +1,2 @@
+# sampa
+static-sampa
